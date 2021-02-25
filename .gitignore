@@ -1,0 +1,7 @@
+**-[:digit:].[:digit:]*/
+**-[:digit:].[:digit:].py
+**.exe
+**.py?
+**.swp
+__pycache__/**
+.pytest_cache/**
