@@ -1,0 +1,12 @@
+*-[:digit:].[:digit:]*
+*.a
+*.exe
+*.py?
+*.swp
+*dev**
+*tests/libgit2/lib**
+*tests/libgit2/src**
+*.mypy_cache**
+*.pytest_cache**
+*__pycache__**
+*pywildmatch.egg-info**
